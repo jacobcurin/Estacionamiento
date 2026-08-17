@@ -2,7 +2,7 @@
 
 Aplicación de consola desarrollada en C# que calcula el precio de un servicio de estacionamiento según el tiempo ingresado por el usuario.
 
-Tarifas
+## Tarifas
 * Hasta 60 minutos: $5.000
 * Más de 60 y hasta 120 minutos: $15.000
 * Más de 120 minutos: $40.000
