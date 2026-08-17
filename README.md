@@ -1,4 +1,4 @@
-#Sistema de Estacionamiento
+# Sistema de Estacionamiento
 
 Aplicación de consola desarrollada en C# que calcula el precio de un servicio de estacionamiento según el tiempo ingresado por el usuario.
 
@@ -16,12 +16,12 @@ Rechaza números negativos.
 Valida que los minutos adicionales estén entre 0 y 59.
 Repite la solicitud cuando los datos son incorrectos.
 
-#Tecnologías utilizadas
+# Tecnologías utilizadas
 C#
 .NET
 Aplicación de consola
 
-#Practicar conceptos fundamentales de C#, como:
+# Practicar conceptos fundamentales de C#, como:
 Métodos
 Variables y tipos de datos
 Condicionales
@@ -32,4 +32,4 @@ Cláusulas de guarda con continue
 Refactorización para reducir condicionales anidados
 
 
-#Jacob Curin || Desarrollador .net
+# Jacob Curin || Desarrollador .net
