@@ -18,7 +18,9 @@ Repite la solicitud cuando los datos son incorrectos.
 
 # Tecnologías utilizadas
 C#
+
 .NET
+
 Aplicación de consola
 
 # Practicar conceptos fundamentales de C#, como:
